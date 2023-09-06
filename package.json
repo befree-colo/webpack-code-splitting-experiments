@@ -1,0 +1,12 @@
+{
+  "name": "webpack-code-splitting-experiments",
+  "version": "1.0.0",
+  "description": "Experiment project to test webpack code splitting",
+  "scripts": {},
+  "author": "befreeman.com",
+  "workspaces": [
+    "packages/initial-app",
+    "packages/experiment1",
+    "packages/experiment2"
+  ]
+}

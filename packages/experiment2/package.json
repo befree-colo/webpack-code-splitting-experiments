@@ -1,0 +1,18 @@
+{
+  "name": "experiment2",
+  "description": "Use the lodash-es package to see how it effects file size compared to regular lodash",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "befreeman.com",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.3",
+    "webpack": "^5.88.2",
+    "webpack-bundle-analyzer": "^4.9.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
